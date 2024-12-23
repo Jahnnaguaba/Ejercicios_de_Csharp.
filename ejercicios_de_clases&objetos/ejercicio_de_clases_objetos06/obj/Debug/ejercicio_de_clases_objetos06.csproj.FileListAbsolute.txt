@@ -1,0 +1,7 @@
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_clases&objetos\ejercicio_de_clases_objetos06\bin\Debug\ejercicio_de_clases_objetos06.exe.config
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_clases&objetos\ejercicio_de_clases_objetos06\bin\Debug\ejercicio_de_clases_objetos06.exe
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_clases&objetos\ejercicio_de_clases_objetos06\bin\Debug\ejercicio_de_clases_objetos06.pdb
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_clases&objetos\ejercicio_de_clases_objetos06\obj\Debug\ejercicio_de_clases_objetos06.csproj.AssemblyReference.cache
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_clases&objetos\ejercicio_de_clases_objetos06\obj\Debug\ejercicio_de_clases_objetos06.csproj.CoreCompileInputs.cache
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_clases&objetos\ejercicio_de_clases_objetos06\obj\Debug\ejercicio_de_clases_objetos06.exe
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_clases&objetos\ejercicio_de_clases_objetos06\obj\Debug\ejercicio_de_clases_objetos06.pdb

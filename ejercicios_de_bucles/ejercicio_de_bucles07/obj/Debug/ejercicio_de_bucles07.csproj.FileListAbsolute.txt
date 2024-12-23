@@ -1,0 +1,7 @@
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_bucles\ejercicio_de_bucles07\bin\Debug\ejercicio_de_bucles07.exe.config
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_bucles\ejercicio_de_bucles07\bin\Debug\ejercicio_de_bucles07.exe
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_bucles\ejercicio_de_bucles07\bin\Debug\ejercicio_de_bucles07.pdb
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_bucles\ejercicio_de_bucles07\obj\Debug\ejercicio_de_bucles07.csproj.AssemblyReference.cache
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_bucles\ejercicio_de_bucles07\obj\Debug\ejercicio_de_bucles07.csproj.CoreCompileInputs.cache
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_bucles\ejercicio_de_bucles07\obj\Debug\ejercicio_de_bucles07.exe
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_bucles\ejercicio_de_bucles07\obj\Debug\ejercicio_de_bucles07.pdb

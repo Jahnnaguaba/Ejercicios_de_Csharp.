@@ -1,0 +1,7 @@
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_basicos\ejemplo_basico01\bin\Debug\ejemplo_basico01.exe.config
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_basicos\ejemplo_basico01\bin\Debug\ejemplo_basico01.exe
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_basicos\ejemplo_basico01\bin\Debug\ejemplo_basico01.pdb
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_basicos\ejemplo_basico01\obj\Debug\ejemplo_basico01.csproj.AssemblyReference.cache
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_basicos\ejemplo_basico01\obj\Debug\ejemplo_basico01.csproj.CoreCompileInputs.cache
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_basicos\ejemplo_basico01\obj\Debug\ejemplo_basico01.exe
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_basicos\ejemplo_basico01\obj\Debug\ejemplo_basico01.pdb

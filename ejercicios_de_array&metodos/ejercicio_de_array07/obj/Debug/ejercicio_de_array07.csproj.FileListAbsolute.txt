@@ -1,0 +1,7 @@
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_array&metodos\ejercicio_de_array07\bin\Debug\ejercicio_de_array07.exe.config
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_array&metodos\ejercicio_de_array07\bin\Debug\ejercicio_de_array07.exe
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_array&metodos\ejercicio_de_array07\bin\Debug\ejercicio_de_array07.pdb
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_array&metodos\ejercicio_de_array07\obj\Debug\ejercicio_de_array07.csproj.AssemblyReference.cache
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_array&metodos\ejercicio_de_array07\obj\Debug\ejercicio_de_array07.csproj.CoreCompileInputs.cache
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_array&metodos\ejercicio_de_array07\obj\Debug\ejercicio_de_array07.exe
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_array&metodos\ejercicio_de_array07\obj\Debug\ejercicio_de_array07.pdb

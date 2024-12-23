@@ -1,0 +1,7 @@
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_array&metodos\ejercicio_en_vivo_de_array02\bin\Debug\ejercicio_en_vivo_de_array02.exe.config
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_array&metodos\ejercicio_en_vivo_de_array02\bin\Debug\ejercicio_en_vivo_de_array02.exe
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_array&metodos\ejercicio_en_vivo_de_array02\bin\Debug\ejercicio_en_vivo_de_array02.pdb
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_array&metodos\ejercicio_en_vivo_de_array02\obj\Debug\ejercicio_en_vivo_de_array02.csproj.AssemblyReference.cache
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_array&metodos\ejercicio_en_vivo_de_array02\obj\Debug\ejercicio_en_vivo_de_array02.csproj.CoreCompileInputs.cache
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_array&metodos\ejercicio_en_vivo_de_array02\obj\Debug\ejercicio_en_vivo_de_array02.exe
+C:\Users\Jahnna\Desktop\Ejercicios_de_consola\ejercicios_de_array&metodos\ejercicio_en_vivo_de_array02\obj\Debug\ejercicio_en_vivo_de_array02.pdb
